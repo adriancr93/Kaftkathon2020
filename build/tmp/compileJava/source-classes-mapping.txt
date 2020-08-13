@@ -1,0 +1,7 @@
+myapps/WordCount.java
+ myapps.WordCount
+ myapps.WordCount$1
+io/confluent/developer/avro/ActingEvent.java
+ io.confluent.developer.avro.ActingEvent
+ io.confluent.developer.avro.ActingEvent$1
+ io.confluent.developer.avro.ActingEvent$Builder
